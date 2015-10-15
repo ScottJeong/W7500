@@ -33,7 +33,7 @@
 #include "mmc_sd.h"
 #include "loopback.h"
 /* Private typedef -----------------------------------------------------------*/
-
+//SK
 /* Private define ------------------------------------------------------------*/
 #define __DEF_USED_MDIO__ 
 #define __DEF_USED_IC101AG__ //for W7500 Test main Board V001
